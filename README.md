@@ -1,0 +1,2 @@
+# Vero-s
+practice projects
